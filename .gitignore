@@ -1,0 +1,5 @@
+# ignore below files
+*.DS_Store
+*.pdf
+exe
+prabhu_mathloop.c
